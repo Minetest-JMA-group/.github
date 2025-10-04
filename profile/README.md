@@ -1,6 +1,6 @@
 ## JMA Minetest
 
-An open-source Minetest server network, currently consisting of 3 servers; Capture the Flag, Mineclone2, and Creative.
+An open-source ~~Minetest~~ Luanti server network, currently consisting of 3 servers; Capture the Flag, Mineclone2, and Creative.
 
 Contact:\
 [Discord server](https://ctf.jma-sig.de)
